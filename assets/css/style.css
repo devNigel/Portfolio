@@ -19,6 +19,10 @@ html {
   padding-bottom: 30px;
 }
 
+
+.navbar-burger{
+  color:#fff!important;
+}
 .hero {
   background-image:url('/assets/img/be-free.jpg');
   background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url('/assets/img/be-free.jpg') no-repeat;
