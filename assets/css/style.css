@@ -352,3 +352,11 @@ body.preloader-site {
 
 .white
 {color:ghostwhite}
+
+.blog-post-title a{
+  color: black;
+}
+
+.blog-post-title a:hover{
+  color:#3273dc;
+}
